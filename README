@@ -1,0 +1,22 @@
+
+=============================================================
+    SOCKET
+=============================================================
+ * Writen by: adi ben ezra, id = 206124000, login = adibene
+ *            yael yishay , id = 305345811, login = yaelor
+ *
+ * algoritem:
+ * built out of two servers and a client
+ * the program sends msg between the client
+ * and servers and between the two servers by socket
+ * 
+
+Compile: gcc -lm ex6a1.c –o ex6a1
+Compile: gcc -lm ex6a2.c –o ex6a2
+Compile: gcc -lm ex6a3.c –o ex6a3
+
+Run: ./ex6a1 <reg port>
+Run: ./ex6a2 <app port> <reg port> <reg host
+Run: ./ex6a3 <reg port> <reg host> <app port> <app host>
+
+
